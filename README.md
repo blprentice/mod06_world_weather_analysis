@@ -5,4 +5,4 @@ assignment required three deliverables:
 
 1. Retrieval of weather data.
 2. Creation of a map depicting customer travel destinations.
-3. Creation of a map depicting the route connection four selected cities.
+3. Creation of a map depicting the route connecting four selected cities.
